@@ -1,5 +1,5 @@
-<span style="font-family:lft-etica-mono; font-size:4em;">
-LOVE!
+<span style="font-family:ff-nexus-typewriter; font-size:4em;">
+NATHAN DUROCHER
 ## Hello World
 
 - I'm hosted with GitHub Pages.
