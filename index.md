@@ -1,4 +1,4 @@
-<span style="font-family:ff-nexus-typewriter; font-size:4em;">
+<span style="font-family:Andale Mono; font-size:4em;">
 NATHAN DUROCHER
 ## Hello World
 
