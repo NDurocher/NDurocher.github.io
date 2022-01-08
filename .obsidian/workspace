@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c68ba3a24c8fc5b7",
+        "id": "ee2ae04191595dad",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c68ba3a24c8fc5b7",
+  "active": "ee2ae04191595dad",
   "lastOpenFiles": [
+    "test.html.md",
     "index.md",
     "README.md"
   ]
