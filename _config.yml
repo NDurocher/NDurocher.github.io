@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 title: Nathan Durocher
 description: Computer Vision Engineer
 site_title: '@ndurocher - Nathan Durocher'
@@ -13,7 +11,7 @@ github_username: ndurocher
 email: nathan.durocher@gmail.com
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: docs/asstes/Owl_Logo.jpg
 
 # Google Analytics ID
 google_analytics: 
