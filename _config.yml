@@ -1,1 +1,19 @@
 theme: jekyll-theme-minimal
+
+title: Nathan Durocher
+description: Computer Vision Engineer
+site_title: '@ndurocher - Nathan Durocher'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: ndurocher
+email: nathan.durocher@gmail.com
+
+# absolute or relative
+profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 
