@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: 'https://youtu.be/hCbHA0Wp3V4',
             technologies: ['Pytorch', 'PyBullet', 'CNN'],
             description: "A visual motor behaviour cloning policy, capable of reproducing complex movement tasks given feedback from a stationary visual input.",
-            categories: ['featured', 'DNN']
+            categories: ['featured', 'DNN', 'Robotics']
         },
     ]
 
