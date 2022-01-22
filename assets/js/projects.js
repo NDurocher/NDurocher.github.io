@@ -12,8 +12,8 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/LUDO.png',
-            link: 'https://github.com/NDurocher/LUDO_QLearning',
-            title: 'QPlayer',
+            link: 'https://github.com/NDurocher/YARAL',
+            title: 'YARAL: Yet Another Reinforcement Learning Approach to Ludo',
             demo: false,
             technologies: ['Q-Learning', 'Python'],
             description: "A Q-learning AI player for the board game LUDO.",
