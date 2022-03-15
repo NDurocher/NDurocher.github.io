@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'DNN', 'robotics']
         },
         {
-            image: 'assets/images/sokoban.png',
+            image: 'assets/images/Sokobot.jpeg',
             link: 'https://github.com/janschmid/Sokoban',
             title: 'Sokoban Robot and Solver',
             demo: 'https://youtu.be/Tbv2cbrF87Y',
