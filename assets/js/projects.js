@@ -28,6 +28,15 @@ let render_projects = (slug) => {
             description: "A visual motor behaviour cloning policy, capable of reproducing complex movement tasks given feedback from a stationary visual input.",
             categories: ['featured', 'DNN', 'robotics']
         },
+        {
+            image: 'assets/images/sokoban.png',
+            link: 'https://github.com/janschmid/Sokoban',
+            title: 'Sokoban Robot and Solver',
+            demo: 'https://youtu.be/Tbv2cbrF87Y',
+            technologies: ['Informed Search', 'Python', 'PID'],
+            description: "A Sokoban puzzle robot and solver, using behaviour based design and informed search techniques.",
+            categories: ['robotics']
+        },
     ]
 
     let projects = [];
