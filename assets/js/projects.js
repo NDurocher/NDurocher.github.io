@@ -46,6 +46,24 @@ let render_projects = (slug) => {
             description: "A time-horizon MPC controller for an autonomous car in MATLAB.",
             categories: ['robotics']
         },
+        {
+            image: 'assets/images/Parrot Mini Drone.png',
+            link: 'https://github.com/NDurocher/ParrotMinidroneCompetition',
+            title: 'Parrot MiniDrone Competition Nordics Baltics 2021',
+            demo: 'https://www.youtube.com/watch?v=elezoPG-3co&feature=youtu.be',
+            technologies: ['FF Control', 'Computer Vision', 'MATLAB'],
+            description: "A real-time image-based feedforward controller on a quadcopter.",
+            categories: ['robotics']
+        },
+        {
+            image: 'assets/images/Which_podcaster.png',
+            link: 'https://github.com/NDurocher/Which-Podcaster',
+            title: 'Which Podcaster?',
+            demo: 'https://www.youtube.com/watch?v=elezoPG-3co&feature=youtu.be',
+            technologies: ['ResNet', 'LSTM', 'Pytorch'],
+            description: "A neural network model to determine which host of a Danish Podcast is speaking.",
+            categories: ['DNN']
+        },
     ]
 
     let projects = [];
