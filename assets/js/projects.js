@@ -37,6 +37,15 @@ let render_projects = (slug) => {
             description: "A Sokoban puzzle robot and solver, using behaviour based design and informed search techniques.",
             categories: ['robotics']
         },
+        {
+            image: 'assets/images/Auto_MPC.png',
+            link: 'https://github.com/NDurocher/MPC-Autonomous-Car',
+            title: 'MPC Controller for an Autonomous Car',
+            demo: 'https://youtu.be/Tbv2cbrF87Y',
+            technologies: ['MPC', 'MATLAB'],
+            description: "A time-horizon MPC controller for an autonomous car in MATLAB.",
+            categories: ['robotics']
+        },
     ]
 
     let projects = [];
