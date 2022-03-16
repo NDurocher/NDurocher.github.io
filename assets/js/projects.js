@@ -59,7 +59,7 @@ let render_projects = (slug) => {
             image: 'assets/images/Which_podcaster.png',
             link: 'https://github.com/NDurocher/Which-Podcaster',
             title: 'Which Podcaster?',
-            demo: 'https://www.youtube.com/watch?v=elezoPG-3co&feature=youtu.be',
+            demo: false,
             technologies: ['ResNet', 'LSTM', 'Pytorch'],
             description: "A neural network model to determine which host of a Danish Podcast is speaking.",
             categories: ['DNN']
