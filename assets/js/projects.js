@@ -30,7 +30,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/Sokobot.jpeg',
-            link: 'https://github.com/janschmid/Sokoban',
+            link: 'https://github.com/NDurocher/Sokoban',
             title: 'Sokoban Robot and Solver',
             demo: 'https://youtu.be/Tbv2cbrF87Y',
             technologies: ['Informed Search', 'Python', 'PID'],
