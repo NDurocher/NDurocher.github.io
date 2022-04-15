@@ -1,5 +1,5 @@
 title: Nathan Durocher
-description: Computer Vision and Machine Learning Engineer
+description: Robotics and Artificial Intelligence Engineer
 site_title: '@ndurocher - Nathan Durocher'
 
 # Build settings
@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: ndurocher
+github_username: NDurocher
 email: nathan.durocher@gmail.com
 
 # absolute or relative
