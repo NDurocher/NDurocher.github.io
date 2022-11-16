@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Q-Learning', 'Python'],
             description: "A Q-learning AI player for the board game LUDO.",
-            categories: ['featured', 'ML']
+            categories: ['ML']
         },
         {
             image: 'assets/images/VIBE.png',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: 'https://youtu.be/hCbHA0Wp3V4',
             technologies: ['Pytorch', 'PyBullet', 'CNN'],
             description: "A visual motor behaviour cloning policy, capable of reproducing complex movement tasks given feedback from a stationary visual input.",
-            categories: ['featured', 'ML', 'CV', ]
+            categories: ['ML', 'CV' ]
         },
         {
             image: 'assets/images/Sokobot.jpeg',
@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             demo: 'https://youtu.be/Tbv2cbrF87Y',
             technologies: ['MPC', 'MATLAB'],
             description: "A time-horizon MPC controller for an autonomous car in MATLAB.",
-            categories: ['Ctrl']
+            categories: ['featured', 'Ctrl']
         },
         {
             image: 'assets/images/Parrot Mini Drone.png',
@@ -53,7 +53,7 @@ let render_projects = (slug) => {
             demo: 'https://www.youtube.com/watch?v=elezoPG-3co&feature=youtu.be',
             technologies: ['FF Control', 'Computer Vision', 'MATLAB'],
             description: "A real-time image-based feedforward controller on a quadcopter.",
-            categories: ['CV', 'Ctrl']
+            categories: ['featured','CV', 'Ctrl']
         },
         {
             image: 'assets/images/Which_podcaster.png',
@@ -63,6 +63,15 @@ let render_projects = (slug) => {
             technologies: ['ResNet', 'LSTM', 'Pytorch'],
             description: "A neural network model to determine which host of a Danish Podcast is speaking.",
             categories: ['ML']
+        },
+        {
+            image: 'assets/images/VO_example.png',
+            link: 'https://github.com/NDurocher/CppRobotics',
+            title: 'Cpprobotics',
+            demo: false,
+            technologies: ['C++', 'OpenCV', 'EKF', 'SLAM'],
+            description: "A collection of common robotics algorithms implemented in C++.",
+            categories: ['featured', 'CV']
         },
     ]
 
